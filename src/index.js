@@ -1,7 +1,1 @@
-hahhh
-
-hhahhh
-
-修改给哈哈哈
-
-
+console.log(1);
