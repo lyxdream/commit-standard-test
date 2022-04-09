@@ -224,3 +224,8 @@ npm run release
 ```
 
 git push 的时候，就会自动生成 CHANGELOG.md 一并提交到远端了，就不用手动执行 npm run release 命令再push了
+
+
+
+
+
