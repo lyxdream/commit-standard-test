@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "commit": "cz"
+    "commit": "git-cz"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "commitizen": "^4.2.4",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "git-cz": "^4.8.0"
   },
   "config": {
     "commitizen": {
