@@ -1,11 +1,12 @@
 {
   "name": "test-commit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "eslint": "eslint src",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "release": "standard-version"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +21,8 @@
     "eslint-plugin-import": "^2.26.0",
     "git-cz": "^4.8.0",
     "husky": "^6.0.0",
-    "lint-staged": "^12.3.7"
+    "lint-staged": "^12.3.7",
+    "standard-version": "^9.3.2"
   },
   "lint-staged": {
     "./**/*.{js}": [
