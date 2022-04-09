@@ -54,4 +54,4 @@ npm i  husky -D
 
 4. 生成日志
 
-npm i -D commitlint-config-cz @commitlint/cli
+测试
